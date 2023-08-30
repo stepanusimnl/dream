@@ -1,0 +1,8 @@
+JADWAL OLAHRAGA
+SENIN (bisep)
+SELASA (trisep)
+RABU (Rest)
+KAMIS (Leg)
+JUMAT (Perut)
+SABTU (Cardio)
+MINGGU (Rest)
