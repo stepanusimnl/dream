@@ -16,4 +16,6 @@ JUMAT (Perut)
       -  Reverse Crunch
       -  Side Crunch
 SABTU (Cardio)
+  -  Jogging
+  -  Bersepeda
 MINGGU (Rest)
