@@ -1,7 +1,12 @@
 JADWAL OLAHRAGA
 SENIN (bisep)
   -  Dumbell Single-Arm Isometric Curl
+  -  Dumbell Curl
+  -  Hammer Curl
 SELASA (trisep)
+  -  Diamond Push Up
+  -  Tricep Dips
+  -  Overhead Dumbell Extension
 RABU (Shoulder)
   -  Seated Dumbell Shoulder Press
   -  Side Lateral Raise
