@@ -1,0 +1,14 @@
+JADWAL OLAHRAGA
+SENIN (bisep)
+SELASA (trisep)
+RABU (Rest)
+KAMIS (Leg)
+  -  Squad
+      -  Bodyweight Squad
+      -  Sumo Squad
+      -  Dumbell Front Squad
+      -  Goblet Squad
+      -  Split Squad
+JUMAT (Perut)
+SABTU (Cardio)
+MINGGU (Rest)
