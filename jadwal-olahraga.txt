@@ -1,5 +1,7 @@
 JADWAL OLAHRAGA
 SENIN (bisep)
+  -  Dumbell Curl
+  -  Hammer Curl
 SELASA (trisep)
 RABU (Rest)
 KAMIS (Leg)
