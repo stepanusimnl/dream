@@ -1,6 +1,11 @@
 JADWAL OLAHRAGA
 SENIN (bisep)
+  -  Dumbell Curl
+  -  Hammer Curl
 SELASA (trisep)
+  -  Diamond Push Up
+  -  Tricep Dips
+  -  Overhead Dumbell Extension
 RABU (Rest)
 KAMIS (Leg)
   -  Squad
