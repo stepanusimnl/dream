@@ -1,12 +1,15 @@
 JADWAL OLAHRAGA
 SENIN (bisep)
+  -  Dumbell Single-Arm Isometric Curl
   -  Dumbell Curl
   -  Hammer Curl
 SELASA (trisep)
   -  Diamond Push Up
   -  Tricep Dips
   -  Overhead Dumbell Extension
-RABU (Rest)
+RABU (Shoulder)
+  -  Seated Dumbell Shoulder Press
+  -  Side Lateral Raise
 KAMIS (Leg)
   -  Squad
       -  Bodyweight Squad
@@ -20,5 +23,8 @@ JUMAT (Perut)
       -  Side Crunch
       -  Reverse Crunch
       -  Side Crunch
+  -  Plank
 SABTU (Cardio)
-MINGGU (Rest)
+  -  Jogging
+  -  Bersepeda
+
