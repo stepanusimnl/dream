@@ -10,5 +10,10 @@ KAMIS (Leg)
       -  Goblet Squad
       -  Split Squad
 JUMAT (Perut)
+  -  Crunch
+      -  Basic Crunch
+      -  Side Crunch
+      -  Reverse Crunch
+      -  Side Crunch
 SABTU (Cardio)
 MINGGU (Rest)
